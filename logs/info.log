@@ -1,0 +1,120 @@
+2023-04-13 22:09:42,874 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-13 22:10:38,677 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-13 22:10:56,882 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-13 22:10:58,150 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.nodes' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-13 22:12:01,833 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-13 22:16:01,005 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-13 22:16:11,534 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-13 22:17:35,988 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-13 22:28:06,148 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-13 22:28:23,939 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-13 22:37:21,304 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-13 22:37:22,118 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.nodes' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-13 22:37:43,271 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-13 22:37:44,035 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.nodes' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-13 22:41:18,332 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-13 22:41:19,136 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.nodes' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-15 00:01:49,187 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 00:05:40,733 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 00:07:56,341 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 00:08:19,324 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 00:08:47,498 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 00:10:02,900 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 00:10:17,438 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 00:14:17,523 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 00:14:17,771 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.preaparacaoDados' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-15 00:14:18,439 - kedro_mlflow.framework.hooks.mlflow_hook - WARNING - No 'mlflow.yml' config file found in environment. Default configuration will be used. Use ``kedro mlflow init`` command in CLI to customize the configuration.
+2023-04-15 00:14:18,444 - kedro_mlflow.config.kedro_mlflow_config - INFO - The 'tracking_uri' key in mlflow.yml is relative ('server.mlflow_(tracking|registry)_uri = mlruns'). It is converted to a valid uri: 'file:///C:/Users/USER/Desktop/InfNet/engenhariaMachineLearning/engenhariamachinelearning/mlruns'
+2023-04-15 19:42:38,512 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 19:42:40,121 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.preaparacaoDados' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-15 19:42:40,790 - kedro_mlflow.framework.hooks.mlflow_hook - WARNING - No 'mlflow.yml' config file found in environment. Default configuration will be used. Use ``kedro mlflow init`` command in CLI to customize the configuration.
+2023-04-15 19:42:40,796 - kedro_mlflow.config.kedro_mlflow_config - INFO - The 'tracking_uri' key in mlflow.yml is relative ('server.mlflow_(tracking|registry)_uri = mlruns'). It is converted to a valid uri: 'file:///C:/Users/USER/Desktop/InfNet/engenhariaMachineLearning/engenhariamachinelearning/mlruns'
+2023-04-15 19:43:09,349 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 19:43:09,574 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.preaparacaoDados' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-15 19:43:10,240 - kedro_mlflow.framework.hooks.mlflow_hook - WARNING - No 'mlflow.yml' config file found in environment. Default configuration will be used. Use ``kedro mlflow init`` command in CLI to customize the configuration.
+2023-04-15 19:43:10,247 - kedro_mlflow.config.kedro_mlflow_config - INFO - The 'tracking_uri' key in mlflow.yml is relative ('server.mlflow_(tracking|registry)_uri = mlruns'). It is converted to a valid uri: 'file:///C:/Users/USER/Desktop/InfNet/engenhariaMachineLearning/engenhariamachinelearning/mlruns'
+2023-04-15 19:44:18,926 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 19:44:20,556 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.preaparacaoDados' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-15 19:44:21,210 - kedro_mlflow.framework.hooks.mlflow_hook - WARNING - No 'mlflow.yml' config file found in environment. Default configuration will be used. Use ``kedro mlflow init`` command in CLI to customize the configuration.
+2023-04-15 19:44:21,215 - kedro_mlflow.config.kedro_mlflow_config - INFO - The 'tracking_uri' key in mlflow.yml is relative ('server.mlflow_(tracking|registry)_uri = mlruns'). It is converted to a valid uri: 'file:///C:/Users/USER/Desktop/InfNet/engenhariaMachineLearning/engenhariamachinelearning/mlruns'
+2023-04-15 19:44:42,290 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 19:44:42,694 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.preaparacaoDados' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-15 19:44:43,352 - kedro_mlflow.framework.hooks.mlflow_hook - WARNING - No 'mlflow.yml' config file found in environment. Default configuration will be used. Use ``kedro mlflow init`` command in CLI to customize the configuration.
+2023-04-15 19:44:43,358 - kedro_mlflow.config.kedro_mlflow_config - INFO - The 'tracking_uri' key in mlflow.yml is relative ('server.mlflow_(tracking|registry)_uri = mlruns'). It is converted to a valid uri: 'file:///C:/Users/USER/Desktop/InfNet/engenhariaMachineLearning/engenhariamachinelearning/mlruns'
+2023-04-15 19:45:37,265 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 19:45:37,531 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.preaparacaoDados' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-15 19:45:38,186 - kedro_mlflow.framework.hooks.mlflow_hook - WARNING - No 'mlflow.yml' config file found in environment. Default configuration will be used. Use ``kedro mlflow init`` command in CLI to customize the configuration.
+2023-04-15 19:45:38,193 - kedro_mlflow.config.kedro_mlflow_config - INFO - The 'tracking_uri' key in mlflow.yml is relative ('server.mlflow_(tracking|registry)_uri = mlruns'). It is converted to a valid uri: 'file:///C:/Users/USER/Desktop/InfNet/engenhariaMachineLearning/engenhariamachinelearning/mlruns'
+2023-04-15 19:53:44,237 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 19:53:44,485 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.preaparacaoDados' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-15 19:53:45,130 - kedro_mlflow.framework.hooks.mlflow_hook - WARNING - No 'mlflow.yml' config file found in environment. Default configuration will be used. Use ``kedro mlflow init`` command in CLI to customize the configuration.
+2023-04-15 19:53:45,136 - kedro_mlflow.config.kedro_mlflow_config - INFO - The 'tracking_uri' key in mlflow.yml is relative ('server.mlflow_(tracking|registry)_uri = mlruns'). It is converted to a valid uri: 'file:///C:/Users/USER/Desktop/InfNet/engenhariaMachineLearning/engenhariamachinelearning/mlruns'
+2023-04-15 19:53:55,250 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 19:53:55,456 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.preaparacaoDados' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-15 19:53:56,083 - kedro_mlflow.framework.hooks.mlflow_hook - WARNING - No 'mlflow.yml' config file found in environment. Default configuration will be used. Use ``kedro mlflow init`` command in CLI to customize the configuration.
+2023-04-15 19:53:56,093 - kedro_mlflow.config.kedro_mlflow_config - INFO - The 'tracking_uri' key in mlflow.yml is relative ('server.mlflow_(tracking|registry)_uri = mlruns'). It is converted to a valid uri: 'file:///C:/Users/USER/Desktop/InfNet/engenhariaMachineLearning/engenhariamachinelearning/mlruns'
+2023-04-15 19:54:04,253 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 19:54:04,523 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.preaparacaoDados' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-15 19:54:05,180 - kedro_mlflow.framework.hooks.mlflow_hook - WARNING - No 'mlflow.yml' config file found in environment. Default configuration will be used. Use ``kedro mlflow init`` command in CLI to customize the configuration.
+2023-04-15 19:54:05,187 - kedro_mlflow.config.kedro_mlflow_config - INFO - The 'tracking_uri' key in mlflow.yml is relative ('server.mlflow_(tracking|registry)_uri = mlruns'). It is converted to a valid uri: 'file:///C:/Users/USER/Desktop/InfNet/engenhariaMachineLearning/engenhariamachinelearning/mlruns'
+2023-04-15 20:04:44,113 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 20:04:44,347 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.preaparacaoDados' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-15 20:04:44,962 - kedro_mlflow.framework.hooks.mlflow_hook - WARNING - No 'mlflow.yml' config file found in environment. Default configuration will be used. Use ``kedro mlflow init`` command in CLI to customize the configuration.
+2023-04-15 20:04:44,967 - kedro_mlflow.config.kedro_mlflow_config - INFO - The 'tracking_uri' key in mlflow.yml is relative ('server.mlflow_(tracking|registry)_uri = mlruns'). It is converted to a valid uri: 'file:///C:/Users/USER/Desktop/InfNet/engenhariaMachineLearning/engenhariamachinelearning/mlruns'
+2023-04-15 20:16:44,659 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 20:16:44,885 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.preaparacaoDados' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-15 20:16:45,544 - kedro_mlflow.framework.hooks.mlflow_hook - WARNING - No 'mlflow.yml' config file found in environment. Default configuration will be used. Use ``kedro mlflow init`` command in CLI to customize the configuration.
+2023-04-15 20:16:45,550 - kedro_mlflow.config.kedro_mlflow_config - INFO - The 'tracking_uri' key in mlflow.yml is relative ('server.mlflow_(tracking|registry)_uri = mlruns'). It is converted to a valid uri: 'file:///C:/Users/USER/Desktop/InfNet/engenhariaMachineLearning/engenhariamachinelearning/mlruns'
+2023-04-15 20:21:48,152 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 20:21:48,378 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.preaparacaoDados' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-15 20:21:49,024 - kedro_mlflow.framework.hooks.mlflow_hook - WARNING - No 'mlflow.yml' config file found in environment. Default configuration will be used. Use ``kedro mlflow init`` command in CLI to customize the configuration.
+2023-04-15 20:21:49,030 - kedro_mlflow.config.kedro_mlflow_config - INFO - The 'tracking_uri' key in mlflow.yml is relative ('server.mlflow_(tracking|registry)_uri = mlruns'). It is converted to a valid uri: 'file:///C:/Users/USER/Desktop/InfNet/engenhariaMachineLearning/engenhariamachinelearning/mlruns'
+2023-04-15 20:34:53,260 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 20:34:53,487 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.preaparacaoDados' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-15 20:34:54,144 - kedro_mlflow.framework.hooks.mlflow_hook - WARNING - No 'mlflow.yml' config file found in environment. Default configuration will be used. Use ``kedro mlflow init`` command in CLI to customize the configuration.
+2023-04-15 20:34:54,150 - kedro_mlflow.config.kedro_mlflow_config - INFO - The 'tracking_uri' key in mlflow.yml is relative ('server.mlflow_(tracking|registry)_uri = mlruns'). It is converted to a valid uri: 'file:///C:/Users/USER/Desktop/InfNet/engenhariaMachineLearning/engenhariamachinelearning/mlruns'
+2023-04-15 20:39:02,165 - kedro.framework.session.session - INFO - Kedro project engenhariamachinelearning
+2023-04-15 20:39:02,368 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.preaparacaoDados' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-15 20:39:03,008 - kedro_mlflow.framework.hooks.mlflow_hook - WARNING - No 'mlflow.yml' config file found in environment. Default configuration will be used. Use ``kedro mlflow init`` command in CLI to customize the configuration.
+2023-04-15 20:39:03,014 - kedro_mlflow.config.kedro_mlflow_config - INFO - The 'tracking_uri' key in mlflow.yml is relative ('server.mlflow_(tracking|registry)_uri = mlruns'). It is converted to a valid uri: 'file:///C:/Users/USER/Desktop/InfNet/engenhariaMachineLearning/engenhariamachinelearning/mlruns'
+2023-04-15 22:18:11,566 - py.warnings - WARNING - c:\users\user\appdata\local\programs\python\python39\lib\site-packages\kedro\framework\project\__init__.py:294: UserWarning: The 'engenhariamachinelearning.pipelines.preaparacaoDados' module does not expose a 'create_pipeline' function, so no pipelines defined therein will be returned by 'find_pipelines'.
+  warnings.warn(
+
+2023-04-15 22:18:12,253 - kedro_mlflow.framework.hooks.mlflow_hook - WARNING - No 'mlflow.yml' config file found in environment. Default configuration will be used. Use ``kedro mlflow init`` command in CLI to customize the configuration.
+2023-04-15 22:18:12,259 - kedro_mlflow.config.kedro_mlflow_config - INFO - The 'tracking_uri' key in mlflow.yml is relative ('server.mlflow_(tracking|registry)_uri = mlruns'). It is converted to a valid uri: 'file:///C:/Users/USER/Desktop/InfNet/engenhariaMachineLearning/engenhariamachinelearning/mlruns'

@@ -1,0 +1,90 @@
+# Here you can define all your data sets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://docs.kedro.org/en/stable/data/data_catalog.html
+
+comforme_data:
+  type: pandas.ParquetDataSet
+  filepath: data/02_intermidiate/comforme_data.parquet
+
+x_test:
+  type: pandas.ParquetDataSet
+  filepath: data/02_intermidiate/x_test.parquet
+
+y_teste:
+  type: pandas.ParquetDataSet
+  filepath: data/02_intermidiate/y_teste.parquet
+
+xtrain:
+  type: pandas.ParquetDataSet
+  filepath: data/02_intermidiate/xtrain.parquet
+
+ytrain:
+  type: pandas.ParquetDataSet
+  filepath: data/02_intermidiate/ytrain.parquet
+
+
+
+selectd_metricsy:
+ type: kedro_mlflow.io.metrics.MlflowMetricDataSet
+
+selectd_metricsx:
+  type: kedro_mlflow.io.metrics.MlflowMetricDataSet
+
+dime_dataset:
+    type: kedro_mlflow.io.metrics.MlflowMetricDataSet
+
+
+
+selectd_algoritmo_regre:
+    type: kedro_mlflow.io.artifacts.MlflowArtifactDataSet
+    data_set:
+      type: kedro_mlflow.io.models.MlflowModelSaverDataSet
+      flavor: mlflow.sklearn
+      filepath: data/06_models/selectd_algoritmo_regre
+
+selectd_algoritmo_classi:
+    type: kedro_mlflow.io.artifacts.MlflowArtifactDataSet
+    data_set:
+      type: kedro_mlflow.io.models.MlflowModelSaverDataSet
+      flavor: mlflow.sklearn
+      filepath: data/06_models/selectd_algoritmo_classi
+
+
+
+filtro_shortType:
+  type: pandas.ParquetDataSet
+  filepath: data/02_intermidiate/filter_shot_type.parquet
+
+filtro_shortType3pt:
+  type: pandas.ParquetDataSet
+  filepath: data/02_intermidiate/filter_shot_type.parquet
+
+
+
+shortType3pt:
+  type: kedro_mlflow.io.artifacts.MlflowArtifactDataSet
+  data_set:
+      type: kedro_mlflow.io.models.MlflowModelSaverDataSet
+      flavor: mlflow.sklearn
+      filepath: data/02_intermidiate/shortType3pt
+
+shortType2pt:
+  type: kedro_mlflow.io.artifacts.MlflowArtifactDataSet
+  data_set:
+      type: kedro_mlflow.io.models.MlflowModelSaverDataSet
+      flavor: mlflow.sklearn
+      filepath: data/02_intermidiate/shortType2pt
+
+
+
+dados_limpos:
+  type: pandas.ParquetDataSet
+  filepath: data/02_intermidiate/dados_limpos.csv
+
+regre_logist:
+  type: kedro_mlflow.io.artifacts.MlflowArtifactDataSet
+  data_set:
+      type: kedro_mlflow.io.models.MlflowModelSaverDataSet
+      flavor: mlflow.sklearn
+      filepath: data/02_intermidiate/regre_logist  
